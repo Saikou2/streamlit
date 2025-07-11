@@ -1,0 +1,14 @@
+venv/
+cours2/
+can_senegal.mp4/
+churn_Modelling.csv/
+cour1_2024.py/
+cour4_2024.py/
+mini-projet-streamlit/donnees_ventes_etudiants_mis_a_jour.csv/
+mini-projet-streamlit/style.css/
+mini-projet-streamlit/.gitignore/
+# Ignorer les fichiers Python compilés
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+Invistico_Airline.csv/
