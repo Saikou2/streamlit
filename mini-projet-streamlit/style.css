@@ -1,0 +1,30 @@
+/* style.css */
+
+*{
+    font-family: 'roboto slab';
+}
+
+.kpi-box {
+    display: flex;
+} 
+
+.kpi-box div {
+    margin: 10px;
+    background-color: #262c26;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    width: 40%;
+}
+
+.kpi-box .total{
+    border-bottom: 2px solid #4aabfb;
+}
+
+.kpi-box .client{
+    border-bottom: 2px solid #ec4afb;
+}
+
+.kpi-box .commande{
+    border-bottom: 2px solid #f5fb4a;
+}
